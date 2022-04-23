@@ -19,4 +19,5 @@ source ~/.bashrc
 vdb-config --interactive
 # 修改的项目为prefer SRA lite files with simplitied base
 ```
-
+[]()
+2. 
