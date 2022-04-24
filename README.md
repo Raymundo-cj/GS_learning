@@ -19,9 +19,9 @@ source ~/.bashrc
 vdb-config --interactive
 # 修改的项目为prefer SRA lite files with simplitied base
 ```
-[参考文网站](https://blog.csdn.net/Yuan_CHarLoTTe/article/details/121687024?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165064034616780271922163%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=165064034616780271922163&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~times_rank-1-121687024.142^v9^pc_search_result_control_group,157^v4^new_style&utm_term=LINUX%E4%B8%8B%E8%BD%BDsratoolkit&spm=1018.2226.3001.4187)
+[参考网站](https://blog.csdn.net/Yuan_CHarLoTTe/article/details/121687024?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165064034616780271922163%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=165064034616780271922163&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~times_rank-1-121687024.142^v9^pc_search_result_control_group,157^v4^new_style&utm_term=LINUX%E4%B8%8B%E8%BD%BDsratoolkit&spm=1018.2226.3001.4187)
 
-2. linux下bwa和samtools的安装与使用
+2. linux下samtools的安装与使用
 
 ``` python
 #下载
@@ -34,3 +34,22 @@ cd samtools-1.9
 make
 make install
 ```
+[参考网站](https://blog.csdn.net/Gentlezzx/article/details/121626879?spm=1001.2014.3001.5502)
+
+2. linux下bwa的安装与使用
+
+```python
+# 下载软件、
+https://github.com/lh3/bwa
+之后解压
+tar -xf tar -xf bwa-0.7.17.tar.bz2 
+#找到下一个目录
+cd bwa-0.7.17/
+#执行
+./bwa
+# 即可
+```
+
+
+
+
